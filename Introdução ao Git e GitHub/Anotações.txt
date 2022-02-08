@@ -1,0 +1,9 @@
+Introdução ao Git e ao Github
+
+Objetos responsáveis pelo versionamento do código
+- Blobs 
+- Trees
+- Commits
+
+Chave SSH - forma de trazer uma conexão segura e encriptada entre duas máquinas - configurar a máquina local como confiável para o GitHub
+
